@@ -15,4 +15,4 @@ Visualizing Korean population data using different python libraries such as pand
 
 ## Number of Births and Total Birth Rate from 2012 to 2020
 
-<img src='Total_Births_Rate.png>
+<img src='Total_Births_Rate.png'>
